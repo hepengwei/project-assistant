@@ -1,18 +1,34 @@
 <h1 align="center">项目助手</h1>
 <div align="center">
-AutoIt3开发的一款可以一键启动或打包项目的小工具
+使用AutoIt3开发的一款可以一键启动或打包项目的小工具
 </div>
 
-## 效果演示
+## 效果展示
 
-<iframe 
+<img 
     width="800"
     height="450" 
-    src="./项目助手效果演示.mp4"
-    scrolling="no"
-    frameborder="0" 
-    allowfullscreen>
-</iframe>
+    src="./initialInterface.png"
+    alt="初始界面">
+</img>
+<img
+    width="800"
+    height="450" 
+    src="./addProject.png"
+    alt="添加项目">
+</img>
+<img 
+    width="800"
+    height="450" 
+    src="./editProjectInfo.png"
+    alt="填写项目信息">
+</img>
+<img 
+    width="800"
+    height="450" 
+    src="./startProject.png"
+    alt="启动项目">
+</img>
 
 ## 项目亮点
 
