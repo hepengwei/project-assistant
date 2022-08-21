@@ -5,30 +5,10 @@
 
 ## 效果展示
 
-<img 
-    width="800"
-    height="450" 
-    src="./initialInterface.png"
-    alt="初始界面">
-</img>
-<img
-    width="800"
-    height="450" 
-    src="./addProject.png"
-    alt="添加项目">
-</img>
-<img 
-    width="800"
-    height="450" 
-    src="./editProjectInfo.png"
-    alt="填写项目信息">
-</img>
-<img 
-    width="800"
-    height="450" 
-    src="./startProject.png"
-    alt="启动项目">
-</img>
+![](https://raw.githubusercontent.com/hepengwei/project-assistant/master/initialInterface.png)
+![](https://raw.githubusercontent.com/hepengwei/project-assistant/master/addProject.png)
+![](https://raw.githubusercontent.com/hepengwei/project-assistant/master/editProjectInfo.png)
+![](https://raw.githubusercontent.com/hepengwei/project-assistant/master/startProject.png)
 
 ## 项目亮点
 
