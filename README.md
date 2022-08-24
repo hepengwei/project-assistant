@@ -19,4 +19,4 @@
 
 ## 教程文档
 
-[文档](https://www.jianshu.com/p/c7bd769f5a56)
+[文档](https://www.jianshu.com/p/98e05dcc4be8)
